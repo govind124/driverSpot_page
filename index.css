@@ -1,0 +1,176 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+ body{
+    width: 100%;
+    height:fit-content;
+}
+.main_pic{
+    background-image: url(https://img.freepik.com/free-vector/cloud-network-system-background-vector-social-media-banner_53876-111844.jpg?w=900&t=st=1672946332~exp=1672946932~hmac=008d2fb21e3e3db246d07d31ea7941d0c93748978dbbf658f32e44adc63904f5);
+    height: 600px;
+    image-rendering:crisp-edges;
+    width: 100%;
+
+}
+.logo{
+    height: 80px;
+    position: relative;
+    top: 10px;
+    left:70px;
+}
+#drive_spotname{
+    font-size: 70px;
+    position: relative;
+    bottom: 150px;
+    left: 150px;
+}
+#drive_spotname_1{
+    font-size: 70px;
+    position: relative;
+    bottom: 305px;
+    left: 281px;
+    color: white;
+}
+.nav_bar{
+    display: flex;
+    gap: 50px;
+    color: white;position: relative;
+    bottom: 430px;
+    left: 800px;
+}
+#hr_line{
+    position: relative;
+    bottom: 430px;
+    width: 90%;
+}
+#small_Text{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    font-size: 50px;
+    position: relative;
+    bottom:380px;
+    left: 150px;
+}
+#cloud_image{
+    position: relative;
+    bottom: 450px;
+    left: 800px;
+
+}
+.buttons{
+    position: relative;
+    left: 300px;
+    
+
+}
+#button_01{
+    border: 1px solid white;
+    background-color: transparent;
+    color:white;
+    height: 40px;
+    width: 200px;
+}
+.page_2nd{
+    height: 550px;
+    background-color: rgb(211, 237, 237);
+    position: relative;
+    bottom:441px;
+}
+.page_3rd{
+    height: 550px;
+    background-color: #1b242b;
+    position: relative;
+    bottom: 460px;
+}
+.page_4th{
+    height: 550px;
+    background-color: rgb(211, 237, 237);
+    position: relative;
+    bottom: 480px;
+}
+.page_5th{
+    height: 550px;
+    background-color: rgb(150, 163, 219);
+    position: relative;
+    bottom: 510px;
+}
+.page_6th{
+    height: 530px;
+    background-color: rgb(40, 41, 41);
+    position: relative;
+    bottom: 535px;
+}
+.page_7th{
+    height: 550px;
+    background-color: rgb(92, 94, 94);
+    position: relative;
+    bottom: 550px;
+}
+.container{
+display: flex;
+gap: 1px;
+position: relative;
+left: 400px;
+top: 50px;
+
+}
+.box{
+    background-color: white;
+    border-radius: 10px;
+}
+#box-1{
+    height: 350px;
+    width: 200px;
+}
+#box-2{
+    position: relative;
+    bottom: 5px;
+    height: 380px;
+    width: 230px;
+}
+#box-3{
+    height: 350px;
+    width: 200px;
+}
+#price{
+    font-size: 40px;
+    font-weight: bold;
+    color: gray;
+    text-align: center;
+}
+#started{
+    height: 40px;
+    border-radius: 5px;
+    width: 170px;
+    background-color: #11ca61;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left: 25px;
+    top: 60px;
+    text-align: center;
+}
+.page_8th{
+    height: 450px;
+    background-color: rgb(35, 36, 36);
+    position: relative;
+    bottom: 550px;
+}
+.end{
+    height: 70px;
+    background-color: rgb(52, 53, 53);
+    position: relative;
+    bottom: 428px;
+}
+.nav_bar p:hover{
+    color: #11ca61;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#button_01:hover{
+    cursor: pointer;
+    background-color: royalblue;
+    color: #1b242b;
+}
+.footer_options p:hover{
+    color:#11ca61;
+    cursor: pointer;
+}
