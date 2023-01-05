@@ -1,7 +1,12 @@
  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
  body{
     width: 100%;
-    height:fit-content;
+    height: 100%;
+   margin: 0;
+   padding: 0;
+   overflow-x: hidden;
+   
+
 }
 .main_pic{
     background-image: url(https://img.freepik.com/free-vector/cloud-network-system-background-vector-social-media-banner_53876-111844.jpg?w=900&t=st=1672946332~exp=1672946932~hmac=008d2fb21e3e3db246d07d31ea7941d0c93748978dbbf658f32e44adc63904f5);
